@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  
+# Name of your site (displayed in the header)
+name: Magik Player - The floating video player | GivesTech
+
+# Short bio or description (displayed in the header)
+description: The best free app for android.
+  
